@@ -865,7 +865,7 @@ details p {
 }
 .contact-detail {
   margin-top: 35px;
-  border-top: 1px solid #3b665c;
+  border-top: 1px solid #fff;
   padding-top: 15px;
   display: flex;
   flex-direction: column;
